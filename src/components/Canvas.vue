@@ -446,12 +446,6 @@ export default {
         (point.y-this.minY+50)/2
       );
     },
-    initialTransform2(point){
-      return new SketchPoint(
-        point.x/2, 
-        point.y/2
-      );
-    },
     getMinXInSketch(){
       let minX = Infinity;
       this.sketch.forEach((stroke)=>{
