@@ -1,7 +1,6 @@
 
 A simple labeler for hand-drawn flowcharts.
   - sketch file: .inkml
-  - gaze file: .xml
 
 ### Preview
 https://bsoy.github.io/simple-labeler/
